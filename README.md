@@ -1,3 +1,5 @@
 # excel-challenge
-Module 1 Challenge Homework
-## Natalie Ericson submission.
+
+## Description
+
+Focused on examining crowdfunding data which can be found in the `xlsx` file. An analysis of trends shown by the data is detailed in the `docx` file. 
